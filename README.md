@@ -19,6 +19,7 @@
 # Git
 
 ## Global Settings
+- Related Bro: https://kbroman.org/github_tutorial/pages/init.html
 - Related Setup: https://gist.github.com/hofmannsven/6814278
 - Related Pro Tips: https://ochronus.com/git-tips-from-the-trenches/
 - Interactive Beginners Tutorial: http://try.github.io/
