@@ -1,4 +1,21 @@
 # Github Cheat Sheet
+## Clone
+ - git clone <url>
+ - git status
+ - git commit -a -m 'first commit'
+ - git log
+ - git push
+ - git remote
+ - git push origin master
+
+## Remote push to repo
+- git init (in terminal in folder you wish to push)
+- git add . (adds all files in folder)
+- git commit -m 'first commit
+- git remote add origin <url to repo>
+- git remote -v (to verify)
+- git push -u origin master
+  
 # Git
 
 ## Global Settings
